@@ -9,7 +9,7 @@ TimeAgo est une petite librairie JavaScript qui permet de convertir une date en 
 Si tu veux utiliser la librairie directement dans ton projet HTML, tu peux ajouter le script suivant :
 
 ```html
-<script src="timeago.js"></script>
+<script src="TimeAgo.js"></script>
 <script>
   const ago = new TimeAgo("fr");
   console.log(ago.format("2025-05-13T10:00:00"));
