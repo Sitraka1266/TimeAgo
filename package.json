@@ -1,0 +1,19 @@
+{
+  "name": "timeago",
+  "version": "1.0.0",
+  "description": "TimeAgo est une petite librairie JavaScript qui permet de convertir une date en un format lisible humainement, comme par exemple \"il y a 2 jours\" ou \"dans 3 heures\". Elle supporte les langues **français** (`fr`) et **anglais** (`en`).",
+  "main": "TimeAgo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timeago",
+    "javascript",
+    "dates",
+    "fr",
+    "en",
+    "relative-time"
+  ],
+  "author": "Sitraka RATOVONARIVO",
+  "license": "MIT"
+}
